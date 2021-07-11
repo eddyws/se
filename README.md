@@ -1,2 +1,2 @@
-# se
+# SE
 Software Enginnering
